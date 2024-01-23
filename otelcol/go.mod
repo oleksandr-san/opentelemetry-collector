@@ -70,7 +70,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.0.1 // indirect
 	go.opentelemetry.io/collector/semconv v0.92.0 // indirect
 	go.opentelemetry.io/contrib/config v0.2.0 // indirect
-	go.opentelemetry.io/contrib/propagators/b3 v1.21.1 // indirect
+	go.opentelemetry.io/contrib/propagators/b3 v1.22.0 // indirect
 	go.opentelemetry.io/otel v1.22.0 // indirect
 	go.opentelemetry.io/otel/bridge/opencensus v0.45.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v0.45.0 // indirect
